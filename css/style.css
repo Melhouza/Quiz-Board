@@ -1,10 +1,11 @@
 head{
   text-align: center;
   text-decoration-style: wavy;
-  text-color: black;
+  text-decoration-color: : black;
 }
 
-background{
+body{
 background-size: cover;
 background-color: yellow;
+position: relative;
 }
