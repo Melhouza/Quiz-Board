@@ -3,6 +3,11 @@ Project Name: Quiz-Board
 
 Description: This is a project created through the use of HTML, Javascript, CSS & Jquery.It allows the user to answer multiple choice questions.
 
+#Project setup instructions:
+You can install this app by cloning the repository from this link https://github.com/Melhouza/Quiz-Board.git
+
+##Deployment:
+You can get my application live page at https://melhouza.github.io/Quiz-Board/
 BUGS:
 Currently no bug has been identified.
 
