@@ -1,10 +1,10 @@
-head{
-  text-align: center;
-  text-decoration-style: wavy;
-  text-color: black;
+background-color: yellow;{
+position: relative;
 }
-
-background{
-background-size: cover;
-background-color: yellow;
+ input{
+  text-align: center;
+}
+ container{
+  background-size: cover;
+  background-position: center;
 }
