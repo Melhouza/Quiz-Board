@@ -9,3 +9,12 @@ background-size: cover;
 background-color: yellow;
 position: relative;
 }
+
+input{
+  text-align: center;
+}
+
+container{
+  background-size: cover;
+  background-position: center;
+}
